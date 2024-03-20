@@ -384,7 +384,7 @@ export interface ApiBlogBlog extends Schema.CollectionType {
       ['Product Preview', 'Options', 'Travel Guides']
     > &
       Attribute.Required;
-    Summery: Attribute.Text &
+    Summay: Attribute.Text &
       Attribute.Required &
       Attribute.SetMinMaxLength<{
         maxLength: 255;

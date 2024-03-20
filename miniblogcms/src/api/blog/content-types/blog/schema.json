@@ -27,7 +27,7 @@
       ],
       "required": true
     },
-    "Summery": {
+    "Summay": {
       "type": "text",
       "required": true,
       "maxLength": 255
